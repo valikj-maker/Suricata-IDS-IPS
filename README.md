@@ -12,10 +12,3 @@
 ## 🔧 Qurulum
 
 Suricata artıq quraşdırılıb.
-
-## 👨‍💻 Müəllif
-
-**Allahverən Sadıqov** - SOC Analyst | Blue Team Specialist
-
-- GitHub: https://github.com/foretelltoday
-- LinkedIn: https://linkedin.com/in/allahveran-sadiqov-125365395/
